@@ -7484,6 +7484,8 @@ MonoBehaviour:
   moveSpeed: 5
   leftPoint: {fileID: 1632559276}
   rightPoint: {fileID: 1276888708}
+  moveTime: 3.75
+  waitTime: 1
 --- !u!95 &1650527771
 Animator:
   serializedVersion: 4
@@ -8126,11 +8128,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8120566957803405644, guid: 9096e31908c10f24bb10baf2c1919129, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.5
+      value: 18.09
       objectReference: {fileID: 0}
     - target: {fileID: 8120566957803405644, guid: 9096e31908c10f24bb10baf2c1919129, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.5
+      value: -0.29
       objectReference: {fileID: 0}
     - target: {fileID: 8120566957803405644, guid: 9096e31908c10f24bb10baf2c1919129, type: 3}
       propertyPath: m_LocalPosition.z
